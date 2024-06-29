@@ -134,7 +134,7 @@
                     <field name="TEXT"></field>
                   </shadow>
                   <block type="text" id="/P!V49^cssB6oyfyI[=G">
-                    <field name="TEXT">Ganhou: </field>
+                    <field name="TEXT">Won: </field>
                   </block>
                 </value>
                 <next>
@@ -184,7 +184,7 @@
                     <field name="TEXT"></field>
                   </shadow>
                   <block type="text" id="oO[|RC`;GS:WdPYG$-)Q">
-                    <field name="TEXT">Perdeu: </field>
+                    <field name="TEXT">Lost: </field>
                   </block>
                 </value>
                 <next>
